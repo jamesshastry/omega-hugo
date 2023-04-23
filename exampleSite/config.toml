@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-title = "OMEGA"
+baseURL = "https://www.kalakritti.com"
+title = "KalaKritti"
 theme = "omega"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
@@ -45,10 +45,10 @@ weight = 5
 logo = "images/logo.png"
 logo_width = "120px"
 # Meta data
-description = "This is meta description"
+description = "Kalakritti description"
 author = "Themefisher"
 # contact info
-contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
+contact_info = "sinddu@kalakritti.com"
 # Preloader
 preloader = true
 # google map
